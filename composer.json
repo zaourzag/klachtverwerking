@@ -1,0 +1,17 @@
+{
+    "name": "zaour/klachtverwerking",
+    "require": {
+        "phpmailer/phpmailer": "^6.11"
+    },
+    "autoload": {
+        "psr-4": {
+            "Zaour\\Klachtverwerking\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zakaria Aourzag",
+            "email": "git@zakariao.nl"
+        }
+    ]
+}
